@@ -1,0 +1,29 @@
+    "A medieval castle floating in the sky above the clouds, with waterfalls cascading down into the mist, cinematic lighting.",
+
+    "A cyberpunk samurai standing under glowing neon signs in the rain, holding a futuristic katana, cinematic atmosphere.",
+
+    "A cozy magical library hidden inside a giant tree, glowing lanterns and floating books, warm lighting.",
+
+    "An astronaut riding a horse on the surface of Mars, dramatic lighting, ultra-detailed.",
+
+    "A steampunk-style airship flying through stormy skies, lightning bolts in the background, cinematic scale.",
+
+    "A serene Japanese garden at night, illuminated by glowing cherry blossoms, koi pond reflecting the moon.",
+
+    "A futuristic robot DJ performing in front of a massive crowd at a neon-lit music festival.",
+
+   "A dragon curled around a skyscraper in a futuristic city, its scales reflecting neon lights.",
+
+    "A peaceful cottage in the middle of a sunflower field during golden hour, ultra-detailed, cozy vibes.",
+
+    "A massive ancient temple hidden deep in the jungle, overgrown with vines, sunlight breaking through the canopy.",
+
+    "In the distance a rock group plays hard. they have banks of speakers behind them, and to each side, and into the foreground are piles of building materials which are being assembled into house by the music buildingbylaushine, sphereglassbuilding,",
+
+    "1 man in hair　Detective Conan clothes　animal ear　London cityscape　anime style　Thick Coating　Professional technology",
+
+    "Hamdan bin Mohammed bin Rashid Al Maktoum skates on the ice in a sports uniform",
+
+    "mammal quadruped alien creatures on an exoplanet",
+
+    "A cosmic field of floating thought-orbs, each orb containing a distant echo, suspended mid-vibration in a silent storm, liquid lines of memory drifting between them, no gravity — abstract psychic dimension, glowing mysticism, SDXL, soft purples and electric blue threads"
