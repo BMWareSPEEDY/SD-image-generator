@@ -2,7 +2,7 @@
 This is the full source code for the video! It includes all the examples, key differences, and is super easy to customize. Hope you enjoyed the video — feel free to fork, tweak, and build your own version! All the cod eis uploaded on the ##Master## branch.
 
 ## Overview
-This repository contains Python scripts using the Stable Diffusion 3.5 Medium model via HuggingFace Diffusers, focused on generating high-quality AI images. The scripts provide batch inference, random prompt generation for creative outputs, and a tester stub for future development.
+This repository contains Python scripts using the Stable Diffusion 3.5 Medium model via HuggingFace Diffusers, focused on generating high-quality AI images. The scripts provide batch inference, random prompt generation for creative outputs, and a tester stub for future development. 
 
 ## Files Included
 - main.py: Batch generation with custom prompts for advanced creativity.
@@ -66,3 +66,9 @@ Template file: Use this as a starting point for testing your own models, adding 
 - Dependency issues: Upgrade packages with `pip install --upgrade diffusers torch transformers`.
 - File not found: Check file paths and directory context if invoking from other locations.
 - If you face more problems try to debug it using chatgpt for version errors and more if you are not that familiar with python or coding in general
+- You will need to have a HuggingFace token to access the Stable diffusion models.
+
+## Useful Links
+ - Demo codes my the stable diffusion community themselfs : https://github.com/Stability-AI/generative-models/tree/main/scripts/sampling
+ - Prompt ides: https://stabledifffusion.com/prompt-library
+ - Stable diffusion model card : https://huggingface.co/stabilityai/stable-diffusion-3.5-medium-tensorrt
