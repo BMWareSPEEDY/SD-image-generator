@@ -69,6 +69,6 @@ Template file: Use this as a starting point for testing your own models, adding 
 - You will need to have a HuggingFace token to access the Stable diffusion models.
 
 ## Useful Links
- - Demo codes my the stable diffusion community themselfs : https://github.com/Stability-AI/generative-models/tree/main/scripts/sampling
+ - Demo codes by the stable diffusion community themselfs : https://github.com/Stability-AI/generative-models/tree/main/scripts/sampling
  - Prompt ides: https://stabledifffusion.com/prompt-library
  - Stable diffusion model card : https://huggingface.co/stabilityai/stable-diffusion-3.5-medium-tensorrt
