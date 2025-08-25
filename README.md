@@ -12,22 +12,10 @@ This repository contains Python scripts using the Stable Diffusion 3.5 Medium mo
 ## Installation
 Clone the Repository:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+https://github.com/BMWareSPEEDY/SD-image-generator.git
 
 Python Environment:
-- Python 3.9 or higher is recommended.
+- Python 3.9 or higher is recommended for compatibility.
 - Set up a virtual environment for isolation:
 - For CUDA support, ensure that your system has the correct NVIDIA drivers and CUDA toolkit.
 
