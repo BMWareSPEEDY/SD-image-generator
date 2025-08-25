@@ -1,3 +1,5 @@
+    These are all the prompts mainly used for this project. Feel free to experiment with them too if you like.
+
     "A medieval castle floating in the sky above the clouds, with waterfalls cascading down into the mist, cinematic lighting.",
 
     "A cyberpunk samurai standing under glowing neon signs in the rain, holding a futuristic katana, cinematic atmosphere.",
