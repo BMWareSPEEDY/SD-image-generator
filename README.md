@@ -1,5 +1,5 @@
 # SD-image-generator
-This is the full source code for the video! It includes all the examples, key differences, and is super easy to customize. Hope you enjoyed the video — feel free to fork, tweak, and build your own version!
+This is the full source code for the video! It includes all the examples, key differences, and is super easy to customize. Hope you enjoyed the video — feel free to fork, tweak, and build your own version! All the cod eis uploaded on the ##Master## branch.
 
 ## Overview
 This repository contains Python scripts using the Stable Diffusion 3.5 Medium model via HuggingFace Diffusers, focused on generating high-quality AI images. The scripts provide batch inference, random prompt generation for creative outputs, and a tester stub for future development.
