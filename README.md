@@ -2,12 +2,19 @@
 This is the full source code for the video! It includes all the examples, key differences, and is super easy to customize. Hope you enjoyed the video — feel free to fork, tweak, and build your own version! All the cod eis uploaded on the ##Master## branch.
 
 ## Overview
-This repository contains Python scripts using the Stable Diffusion 3.5 Medium model via HuggingFace Diffusers, focused on generating high-quality AI images. The scripts provide batch inference, random prompt generation for creative outputs, and a tester stub for future development. 
+This repository contains Python scripts using the Stable Diffusion 3.5 Medium model via HuggingFace Diffusers, focused on generating high-quality AI images. The scripts provide batch inference, random prompt generation for creative outputs.
 
 ## Files Included
 - main.py: Batch generation with custom prompts for advanced creativity.
 - random_pics.py: Automated random prompt construction and image synthesis for diverse visuals.
-- tester.py: Template for future extensions or testing utility.
+- tester.py: Template for checking if your cuda installation is working or not.
+
+## Folders Included
+ - Examples : all the example pictures that were shown in the video
+ - High Guidance : Experimental images with high guidance amount
+ - High Inference : Experimental images with high inference amount
+ - Low Inference : Experimental images with low inference amount
+ - SD Large vs Medium : 2 images with the same exact prompt to show the difference between stabilityai's 3.5 Medium and 3.5 Large SD models 
 
 ## Installation
 Clone the Repository:
