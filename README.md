@@ -75,6 +75,15 @@ Template file: Use this as a starting point for testing your own models, adding 
 - If you face more problems try to debug it using chatgpt for version errors and more if you are not that familiar with python or coding in general
 - You will need to have a HuggingFace token to access the Stable diffusion models.
 
+##Contributing 
+Contributions are welcome! If you have suggestions for improvements, feel free to fork the 
+repository, make your changes, and submit a pull request. For major changes, please open an 
+issue first to discuss what you would like to change. 
+
+##Acknowledgements 
+This project is built upon the incredible work of the teams at Stability AI and HuggingFace. 
+Their open-source models and libraries make projects like this possible.
+
 ## Useful Links
  - Demo codes by the stable diffusion community themselfs : https://github.com/Stability-AI/generative-models/tree/main/scripts/sampling
  - Prompt ides: https://stabledifffusion.com/prompt-library
