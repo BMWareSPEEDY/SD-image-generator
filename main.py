@@ -25,27 +25,22 @@ pipeline = StableDiffusion3Pipeline.from_pretrained(
 pipeline.enable_model_cpu_offload()
 
 prompts = [
-    "In the distance a rock group plays hard. they have banks of speakers behind them, and to each side, and into the foreground are piles of building materials which are being assembled into house by the music buildingbylaushine, sphereglassbuilding,",
-
-    "1 man in hair　Detective Conan clothes　animal ear　London cityscape　anime style　Thick Coating　Professional technology",
-
-    "Hamdan bin Mohammed bin Rashid Al Maktoum skates on the ice in a sports uniform",
-
-    "mammal quadruped alien creatures on an exoplanet",
-
-    "A cosmic field of floating thought-orbs, each orb containing a distant echo, suspended mid-vibration in a silent storm, liquid lines of memory drifting between them, no gravity — abstract psychic dimension, glowing mysticism, SDXL, soft purples and electric blue threads"
+    "Minecraft Steve doing the gritty dance.",
+    "A chicken jockey holding a controller playing Call of Duty",
+    "Shrek driving a Tesla with sunglasses on.",
+    "SpongeBob holding a ‘Subscribe’ sign like a protest."
 ]
 
 results = pipeline(
     prompt=prompts,
     num_inference_steps=40,
-    guidance_scale=4.5,
+    guidance_scale=8,
     max_sequence_length=512,
 )
 
 images = results.images
 
 for i, img in enumerate(images):
-    img.save(f"image_{i}_high_inference .png")
+    img.save(f"image_{i}_art.png")
 
 print("images saved")

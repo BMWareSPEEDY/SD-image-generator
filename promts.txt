@@ -28,4 +28,26 @@
 
     "mammal quadruped alien creatures on an exoplanet",
 
-    "A cosmic field of floating thought-orbs, each orb containing a distant echo, suspended mid-vibration in a silent storm, liquid lines of memory drifting between them, no gravity — abstract psychic dimension, glowing mysticism, SDXL, soft purples and electric blue threads"
+    "A cosmic field of floating thought-orbs, each orb containing a distant echo, suspended mid-vibration in a silent storm, liquid lines of memory drifting between them, no gravity — abstract psychic dimension, glowing mysticism, SDXL, soft purples and electric blue threads",
+
+    "ancient desert temple filled with glowing runes",
+
+    "A high textured Cyberpunk character",
+
+    "steaming latte on a cozy winter morning with golden sunlight",
+
+    "A golden f1 car in a marketing show under the track lights"
+
+    "Ancient Roman Market",
+
+    "pink elephants in a jungle",
+
+    "minimalist wooden cabin on a snowy mountain cliff",
+
+    "New red and black Jordan shoes, make for marathons and sport wear",
+
+    "Shakespeare as a Marvel superhero",
+
+    "Pikachu in a Gucci runway photoshoot",
+
+    "A sketch of a city skyline black and white",
